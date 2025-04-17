@@ -2,7 +2,7 @@
 This project is a medical chatbot designed to provide quick and basic first aid tips. It includes helpful advice on common medical situations such as sprains, cuts, strains, fever, CPR, and more.
 
 ## Overview
-The chatbot is powered by a machine learning model trained on a dataset downloaded from Kaggle. The model is built using a Sequential Neural Network in TensorFlow (Keras). The primary goal of this chatbot is to assist users with basic first aid information and steps they can follow in emergency situations.U can download dataset from kaggle.
+The chatbot is powered by a machine learning model trained on a dataset downloaded from Kaggle. The model is built using a Sequential Neural Network in TensorFlow (Keras). The primary goal of this chatbot is to assist users with basic first aid information and steps they can follow in emergency situations.
 
 ## Features
 - Provides immediate first aid tips for common medical issues.
